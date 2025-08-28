@@ -1,5 +1,9 @@
 <!-- Centered Intro -->
-<h1 align="center">Hi there, I'm Debargha Mandal 👋</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Debargha+Mandal!;" />
+</h1>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Debargha-Mandal&label=Profile%20views&color=0e75b6&style=flat" alt="rohit70-jpg" /> </p>
 
 ## 👨‍💻 About Me
 
@@ -24,7 +28,7 @@ I’m a 3rd-year B.Tech student with a strong passion for **Data Analytics, Game
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Debargha-m&theme=github-dark-blue" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Debargha-Mandal&theme=github-dark-blue" height="150"/>
 </p>
 
 ## 🚀 Featured Projects
@@ -36,15 +40,8 @@ An interactive **dashboard for predictive analytics and visualization**.
 ## 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/debargha-mandal-80b815363/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+  <a href="https://in.linkedin.com/in/debargha-mandal-80b815363" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://in.linkedin.com/in/rohit-bhowmick-525ab328a" height="30" width="40" /></a>
   <a href="https://yourportfolio.com">
     <img src="https://img.shields.io/badge/Portfolio-FF6F61.svg?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
-</p>
-
-<p align="center"> 
-  🔥 Profile Views <br>
-  <img src="https://komarev.com/ghpvc/?username=debarghamandal&style=for-the-badge&color=blue"/>
 </p>
