@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/Debargha-Mandal/Debargha-Mandal/blob/main/PC Coding and Dislay app Mobile.gif" width="900"/>
+</p>
+
 <!-- Centered Intro -->
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Debargha+Mandal!;" />
@@ -9,14 +13,16 @@
 
 I’m a 3rd-year B.Tech student with a strong passion for **Data Analytics, Game Design, AI-driven tools, and Machine Learning** etc. I love building apps,games that solve real-world problems and exploring new technologies.My goal is to combine creativity with technical expertise to develop impactful solutions and innovative user experiences.
 
-<h1 align="right">
-
-</h1>
+<!-- Right-aligned animation -->
+<img src="https://github.com/Debargha-Mandal/Debargha-Mandal/blob/main/Coding%20boy.gif" align="right" width="500" alt="Coding animation" />
 
 - 🔭 I’m currently working on: Building machine learning models for predictive analytics and data visualization dashboards using Power BI.  
-- 🌱 I’m learning: Machine learning 
-- 💬 Ask me about: Data analytics, machine learning, Python, and integrating AI tools into real-world applications.
-- 📫 How to reach me: [linkedin.com/in/debargha-mandal-80b815363](https://www.linkedin.com/in/debargha-mandal-80b815363/)
+- 🌱 I’m learning: Machine Learning  
+- 💬 Ask me about: Data analytics, machine learning, Python, and integrating AI tools into real-world applications.  
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/debargha-mandal-80b815363/)
+
+<br clear="both"/>
+
 
 ## 💻 Tech Stack
 
