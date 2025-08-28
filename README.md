@@ -19,8 +19,8 @@ I’m a 3rd-year B.Tech student with a strong passion for **Data Analytics, Game
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Debargha-m&show_icons=true&theme=github_dark" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debargha-m&layout=compact&theme=github_dark" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Debargha-Mandal&show_icons=true&theme=github_dark" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debargha-Mandal&layout=compact&theme=github_dark" height="150"/>
 </p>
 
 <p align="center">
