@@ -7,9 +7,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Debargha+Mandal!;" />
 </h1>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Debargha-Mandal&style=for-the-badge&color=blue"/>
-</p>
 ## 👨‍💻 About Me
 
 I’m a 3rd-year B.Tech student with a strong passion for **Data Analytics, Game Design, AI-driven tools, and Machine Learning** etc. I love building apps,games that solve real-world problems and exploring new technologies.My goal is to combine creativity with technical expertise to develop impactful solutions and innovative user experiences.
