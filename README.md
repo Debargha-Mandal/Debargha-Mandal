@@ -50,7 +50,7 @@ An interactive **dashboard for predictive analytics and visualization**.
 ## 🤝 Connect with Me
 
 <div align="center"> 
-  <a href="(https://www.linkedin.com/in/debargha-mandal-80b815363/)" target="_blank">
+  <a href="https://www.linkedin.com/in/debargha-mandal-80b815363/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://" target="_blank">
